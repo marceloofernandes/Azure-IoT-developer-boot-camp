@@ -17,7 +17,8 @@ Total duration: 7hr 33min
 ### Module 1: How to use the following hands-on labs?
 
 Duration: 3 minutes
-<br /> 
+<br />
+
 
 ### Module 2: Introduction to Azure IoT Hub and connect MXChip.
 
