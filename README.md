@@ -16,7 +16,8 @@ Total duration: 7hr 33min
 
 ### Module 1: How to use the following hands-on labs?
 
-Duration: 3 minutes
+Duration: 3 minutes  
+
 <br />
 
 
@@ -26,48 +27,57 @@ Duration: 60 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub/
 
-(This module requires the MXChip board)
+(This module requires the MXChip board)  
+
 
 
 
 ### Module 3: Connect a Pi simulator to Azure IoT Hub
 Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub-PiSimulator/
-(paste results)
+(paste results) . 
+
 
 ### Module 4: Visualize time-series data with Azure Time Series Insights
 Duration: 60 minutes
-Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/
+Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/  
+
 
 ### Module 5: React to critical device lifecycle events and trigger Actions
 Duration: 30 minutes
-Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/
+Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/ . 
+
 
 ### Module 6: Cold path storage
 Duration: 90 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
-(incomplete)
+(incomplete)  
+
 
 ### Module 7: Hot path analytics
 Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/CosmosDB/
-(incomplete)
+(incomplete) . 
+
 
 ### Module 8: Batch analytics
 Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeAnalytics/
-(incomplete)
+(incomplete) . 
+
 
 ### Module 9: Load test using Device Simulator
 Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DeviceSimulator/
 Create Device Simulator: https://www.azureiotsolutions.com/Accelerators (the provided URL https://www.azureiotsuite.com/ was not working at the time of this lab)
-PS: This activity needs to be updated. The instructions leads to differents windows (pictures)
+PS: This activity needs to be updated. The instructions leads to differents windows (pictures) . 
+
 
 ### Module 10: Configure and monitor IoT devices at scale
 Duration: 30 minutes
 Instructions: https://github.com/Azure-Samples/azureiotlabs/blob/master/automaticdeviceconfiguration/README.md
-PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.
+PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.  
+
 
 
 Below is the device twin updated with properties:
