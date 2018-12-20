@@ -9,12 +9,13 @@ This hands-on lab is part of the IoT School learning path about Azure IoT soluti
 ### 10 Modules:
 
 Total duration: 7hr 33min
-
+<br /> 
 
 
 ### Module 1: How to use the following hands-on labs?
 
 Duration: 3 minutes
+<br /> 
 
 ### Module 2: Introduction to Azure IoT Hub and connect MXChip.
 
