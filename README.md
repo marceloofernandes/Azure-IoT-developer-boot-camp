@@ -58,6 +58,7 @@ PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". 
 
 
 Below is the device twin updated with properties:
+```
 {
   "deviceId": "shinagawahvac1",
   "etag": "AAAAAAAAAAQ=",
@@ -122,3 +123,4 @@ Below is the device twin updated with properties:
     "iotEdge": false
   }
 }
+```
