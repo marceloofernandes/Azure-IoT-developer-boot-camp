@@ -36,24 +36,30 @@ Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub/
 Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub-PiSimulator/
 (paste results) . 
+
 <br /> 
 
 
 ### Module 4: Visualize time-series data with Azure Time Series Insights
 Duration: 60 minutes
-Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/  
+Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/ . 
+
 <br /> 
 
 
 ### Module 5: React to critical device lifecycle events and trigger Actions
 Duration: 30 minutes
-Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/ . 
+Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/    
+
+
 
 
 ### Module 6: Cold path storage
 Duration: 90 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
 (incomplete)  
+<br /> 
+
 
 
 ### Module 7: Hot path analytics
