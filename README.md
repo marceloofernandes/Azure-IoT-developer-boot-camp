@@ -8,7 +8,8 @@ This hands-on lab is part of the IoT School learning path about Azure IoT soluti
 
 ### 10 Modules:
 
-Total duration: 7hr 33min
+Total duration: 7hr 33min . 
+
 <br />
 
 
