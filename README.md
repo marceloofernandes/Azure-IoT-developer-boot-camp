@@ -1,10 +1,10 @@
 # Azure-IoT-developer-boot-camp
 
 Project name:
-Azure IoT developer boot camp
+Azure IoT developer boot camp lab
 
 Description:
-This hands-on lab, which is reachable either at https://iotschool.microsoft.com/learning-paths/1z75cTRBNqEA2EigQoQKKe or https://github.com/Azure-Samples/azureiotlabs, is part of the IoT School learning path about Azure IoT solutions provided by Microsoft. Its goal is to "get started with Azure IoT. This is a series of hands-on labs for anyone who is learning about Azure Internet of Things (IoT). In these labs, you will use Azure services to build Azure IoT end-to-end solutions, connecting real and simulated devices to Azure IoT Hub."
+This hands-on lab is part of the IoT School learning path about Azure IoT solutions provided by Microsoft. Its goal is to "get started with Azure IoT. This is a series of hands-on labs for anyone who is learning about Azure Internet of Things (IoT). In these labs, you will use Azure services to build Azure IoT end-to-end solutions, connecting real and simulated devices to Azure IoT Hub." It is available at https://iotschool.microsoft.com/learning-paths/1z75cTRBNqEA2EigQoQKKe or https://github.com/Azure-Samples/azureiotlabs.
 
 10 Modules:
 Total duration: 7hr 33min
@@ -33,19 +33,25 @@ Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/
 Module 6: Cold path storage
 Duration: 90 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
+(incomplete)
 
 Module 7: Hot path analytics
 Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/CosmosDB/
+(incomplete)
 
-Module 8: 
+Module 8: Batch analytics
 Duration: 60 minutes
-Instructions:
+Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeAnalytics/
+(incomplete)
 
-Module 9: 
-Duration: 60 minutes
-Instructions:
+Module 9: Load test using Device Simulator
+Duration: 30 minutes
+Instructions: https://azure-samples.github.io/azureiotlabs/DeviceSimulator/
+Create Device Simulator: https://www.azureiotsolutions.com/Accelerators (the provided URL https://www.azureiotsuite.com/ was not working at the time of this lab)
+PS: This activity needs to be updated. The instructions leads to differents windows (pictures)
 
-Module 10: 
-Duration: 60 minutes
-Instructions:
+Module 10: Configure and monitor IoT devices at scale
+Duration: 30 minutes
+Instructions: https://github.com/Azure-Samples/azureiotlabs/blob/master/automaticdeviceconfiguration/README.md
+PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.
