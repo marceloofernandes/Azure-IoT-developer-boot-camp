@@ -10,6 +10,8 @@ This hands-on lab is part of the IoT School learning path about Azure IoT soluti
 
 Total duration: 7hr 33min
 
+
+
 ### Module 1: How to use the following hands-on labs?
 
 Duration: 3 minutes
@@ -21,6 +23,7 @@ Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub/
 
 (This module requires the MXChip board)
+
 
 
 ### Module 3: Connect a Pi simulator to Azure IoT Hub
