@@ -55,3 +55,70 @@ Module 10: Configure and monitor IoT devices at scale
 Duration: 30 minutes
 Instructions: https://github.com/Azure-Samples/azureiotlabs/blob/master/automaticdeviceconfiguration/README.md
 PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.
+
+
+Below is the device twin updated with properties:
+{
+  "deviceId": "shinagawahvac1",
+  "etag": "AAAAAAAAAAQ=",
+  "deviceEtag": "MTI5Mjg0NTg5",
+  "status": "enabled",
+  "statusUpdateTime": "0001-01-01T00:00:00",
+  "connectionState": "Disconnected",
+  "lastActivityTime": "0001-01-01T00:00:00",
+  "cloudToDeviceMessageCount": 0,
+  "authenticationType": "sas",
+  "x509Thumbprint": {
+    "primaryThumbprint": null,
+    "secondaryThumbprint": null
+  },
+  "version": 5,
+  "tags": {
+    "location": {
+      "city": "Shinagawa"
+    }
+  },
+  "properties": {
+    "desired": {
+      "hvacsettings": {
+        "temperature": 74,
+        "humidity": 28
+      },
+      "$metadata": {
+        "$lastUpdated": "2018-12-20T20:37:20.3275207Z",
+        "$lastUpdatedVersion": 2,
+        "hvacsettings": {
+          "$lastUpdated": "2018-12-20T20:37:20.3275207Z",
+          "$lastUpdatedVersion": 2,
+          "temperature": {
+            "$lastUpdated": "2018-12-20T20:37:20.3275207Z",
+            "$lastUpdatedVersion": 2,
+            "$lastUpdatedBy": "shinagawahvacsetting",
+            "$lastUpdatedByDigest": "636809350366618253"
+          },
+          "humidity": {
+            "$lastUpdated": "2018-12-20T20:37:20.3275207Z",
+            "$lastUpdatedVersion": 2,
+            "$lastUpdatedBy": "shinagawahvacsetting",
+            "$lastUpdatedByDigest": "636809350366618253"
+          }
+        }
+      },
+      "$version": 2
+    },
+    "reported": {
+      "$metadata": {
+        "$lastUpdated": "2018-12-20T20:02:32.3175557Z"
+      },
+      "$version": 1
+    }
+  },
+  "configurations": {
+    "shinagawahvacsetting": {
+      "status": "Applied"
+    }
+  },
+  "capabilities": {
+    "iotEdge": false
+  }
+}
