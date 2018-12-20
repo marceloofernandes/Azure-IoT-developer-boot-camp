@@ -28,6 +28,7 @@ Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub/
 
 (This module requires the MXChip board)  
+<br /> 
 
 
 
@@ -51,6 +52,7 @@ Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/ .
 Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/    
 
+<br /> 
 
 
 
@@ -58,7 +60,9 @@ Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/
 Duration: 90 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
 (incomplete)  
+
 <br /> 
+
 
 
 
@@ -66,12 +70,14 @@ Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
 Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/CosmosDB/
 (incomplete) . 
+<br /> 
 
 
 ### Module 8: Batch analytics
 Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeAnalytics/
 (incomplete) . 
+<br /> 
 
 
 ### Module 9: Load test using Device Simulator
@@ -79,12 +85,14 @@ Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DeviceSimulator/
 Create Device Simulator: https://www.azureiotsolutions.com/Accelerators (the provided URL https://www.azureiotsuite.com/ was not working at the time of this lab)
 PS: This activity needs to be updated. The instructions leads to differents windows (pictures) . 
+<br /> 
 
 
 ### Module 10: Configure and monitor IoT devices at scale
 Duration: 30 minutes
 Instructions: https://github.com/Azure-Samples/azureiotlabs/blob/master/automaticdeviceconfiguration/README.md
 PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.  
+<br /> 
 
 
 
