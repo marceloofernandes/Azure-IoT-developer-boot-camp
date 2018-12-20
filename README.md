@@ -34,9 +34,9 @@ Module 6: Cold path storage
 Duration: 90 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
 
-Module 7: 
+Module 7: Hot path analytics
 Duration: 60 minutes
-Instructions:
+Instructions: https://azure-samples.github.io/azureiotlabs/CosmosDB/
 
 Module 8: 
 Duration: 60 minutes
