@@ -109,11 +109,26 @@ Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
 
 <br />
 
-![alt text](
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-1.jpg)
 
-![alt text](
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-2.jpg)     
 
-![alt text]()      
+<br />
+
+json files were not generated. Last check @20181220-01:38.
+
+
+Issue: Make sure to provide a consumer group. Each consumer group allows up to 5 output sinks/consumers. Make sure you create a new consumer group for every 5 output sinks and you can create up to 32 consumer groups.      
+
+
+<br />
+
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-3.jpg)
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-4.jpg)
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-5.jpg)      
 
 <br />
 
