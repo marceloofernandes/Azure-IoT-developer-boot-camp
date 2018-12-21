@@ -20,7 +20,7 @@ Duration: 3 minutes
 
 <br />
 
-![alt text](Pictures/Module1_1.jpg)
+
 
 
 
@@ -42,7 +42,7 @@ Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub-PiSimulator/
 
 <br /> 
 
-![alt text](Pictures/Module3_1.jpg)
+
 
 
 ### Module 4: Visualize time-series data with Azure Time Series Insights
