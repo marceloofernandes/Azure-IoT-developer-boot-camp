@@ -27,11 +27,8 @@ Duration: 60 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub/
 
-(This module requires the MXChip board)  
-<br /> 
-
-
-
+(This module requires the MXChip board)    
+<br />
 
 ### Module 3: Connect a Pi simulator to Azure IoT Hub
 Duration: 30 minutes
@@ -50,11 +47,8 @@ Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/ .
 
 ### Module 5: React to critical device lifecycle events and trigger Actions
 Duration: 30 minutes
-Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/    
-
-<br /> 
-
-
+Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/       
+<br />
 
 ### Module 6: Cold path storage
 Duration: 90 minutes
@@ -69,14 +63,16 @@ Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
 ### Module 7: Hot path analytics
 Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/CosmosDB/
-(incomplete) . 
+(incomplete)     
+
 <br /> 
 
 
 ### Module 8: Batch analytics
 Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeAnalytics/
-(incomplete) . 
+(incomplete)     
+
 <br /> 
 
 
@@ -84,15 +80,19 @@ Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeAnalytics/
 Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/DeviceSimulator/
 Create Device Simulator: https://www.azureiotsolutions.com/Accelerators (the provided URL https://www.azureiotsuite.com/ was not working at the time of this lab)
-PS: This activity needs to be updated. The instructions leads to differents windows (pictures) . 
-<br /> 
+PS: This activity needs to be updated. The instructions leads to differents windows (pictures)     
+
+<br />
+
 
 
 ### Module 10: Configure and monitor IoT devices at scale
 Duration: 30 minutes
 Instructions: https://github.com/Azure-Samples/azureiotlabs/blob/master/automaticdeviceconfiguration/README.md
-PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.  
-<br /> 
+PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.      
+<br />
+
+
 
 
 
