@@ -191,7 +191,7 @@ Instructions: https://azure-samples.github.io/azureiotlabs/DeviceSimulator/
 <br />
 
 
-Note: The provided URL https://www.azureiotsuite.com/ was not working at the time of this lab. The link https://www.azureiotsolutions.com/Accelerators was used instead to create device simulator. This activity needs to be updated. The instructions leads to differents windows as depicted in the next pictures.        
+Note: The provided URL https://www.azureiotsuite.com/ was not available at the time of this lab. The link https://www.azureiotsolutions.com/Accelerators was used instead to create device simulator. This activity needs to be updated. The instructions leads to differents windows as depicted in the next pictures.        
 
 
 <br />
