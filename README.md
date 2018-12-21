@@ -45,10 +45,11 @@ Note: This module requires the MXChip board which was not made available at the 
 ### Module 3: Connect a Pi simulator to Azure IoT Hub
 Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub-PiSimulator/
-(paste results)    
 
-<br /> 
-![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module3-1.jpg)       
+<br />
+
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module3-1.jpg)
 
 
 ![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module3-2.jpg)       
