@@ -104,8 +104,8 @@ Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/
 ### Module 6: Cold path storage
 Duration: 90 minutes
 
-Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
-(incomplete)  
+Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/      
+
 
 <br />
 
@@ -126,7 +126,14 @@ Issue: Make sure to provide a consumer group. Each consumer group allows up to 5
 
 ![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-3.jpg)
 
-![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-4.jpg)
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-4.jpg)       
+
+<br />
+
+Therefore, troubleshooting is required and for the time being the following step could not be validated:     
+
+<br />
+
 
 ![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module6-5.jpg)      
 
