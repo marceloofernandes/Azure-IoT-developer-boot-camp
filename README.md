@@ -33,7 +33,7 @@ Duration: 3 minutes
 
 
 
-### Module 2: Introduction to Azure IoT Hub and connect MXChip.
+## Module 2: Introduction to Azure IoT Hub and connect MXChip.
 
 Duration: 60 minutes
 
@@ -42,7 +42,7 @@ Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub/
 Note: This module requires the MXChip board which was not made available at the time of the experiment. Therefore, this module has not been performed yet.   
 <br />
 
-### Module 3: Connect a Pi simulator to Azure IoT Hub
+## Module 3: Connect a Pi simulator to Azure IoT Hub
 Duration: 30 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub-PiSimulator/
@@ -64,7 +64,7 @@ Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub-PiSimulator/
 
 
 
-### Module 4: Visualize time-series data with Azure Time Series Insights
+## Module 4: Visualize time-series data with Azure Time Series Insights
 Duration: 60 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/     
@@ -86,7 +86,7 @@ Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/
 
 
 
-### Module 5: React to critical device lifecycle events and trigger Actions
+## Module 5: React to critical device lifecycle events and trigger Actions
 Duration: 30 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/       
@@ -101,7 +101,7 @@ Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/
 <br />
 
 
-### Module 6: Cold path storage
+## Module 6: Cold path storage
 Duration: 90 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/      
@@ -142,54 +142,65 @@ Therefore, troubleshooting is required and for the time being the following step
 
 
 
-### Module 7: Hot path analytics
+## Module 7: Hot path analytics
 Duration: 60 minutes
 
-Instructions: https://azure-samples.github.io/azureiotlabs/CosmosDB/
-(incomplete)     
+Instructions: https://azure-samples.github.io/azureiotlabs/CosmosDB/     
 
 <br />
 
-![alt text](
+Due to the previous problem observed in **Module 6**, Cosmos DB data explorer to view data being streamed from IoTHub to Cosmos DB could not be performed:       
 
-![alt text](
+<br />
 
-![alt text]()      
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module7-1.jpg)
+
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module7-2.jpg)
+
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module7-3.jpg)      
 
 <br /> 
 
 
-### Module 8: Batch analytics
+## Module 8: Batch analytics
 Duration: 60 minutes
 
-Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeAnalytics/
-(incomplete)     
+Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeAnalytics/     
 
 <br />
 
-![alt text](
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module8-1.jpg)
 
-![alt text](
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module8-2.jpg)
 
-![alt text]()      
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module8-3.jpg)      
 
 <br /> 
+Note: Assistance is required to run the samples task.    
+
+<br />
 
 
-### Module 9: Load test using Device Simulator
+
+## Module 9: Load test using Device Simulator
 Duration: 30 minutes
 
-Instructions: https://azure-samples.github.io/azureiotlabs/DeviceSimulator/
-Create Device Simulator: https://www.azureiotsolutions.com/Accelerators (the provided URL https://www.azureiotsuite.com/ was not working at the time of this lab)
-PS: This activity needs to be updated. The instructions leads to differents windows (pictures)     
+Instructions: https://azure-samples.github.io/azureiotlabs/DeviceSimulator/     
+<br />
+
+
+Note: The provided URL https://www.azureiotsuite.com/ was not working at the time of this lab. The link https://www.azureiotsolutions.com/Accelerators was used instead to create device simulator. This activity needs to be updated. The instructions leads to differents windows as depicted in the next pictures.        
+
 
 <br />
 
-![alt text](
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module9-1.jpg)
 
-![alt text](
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module9-2.jpg)
 
-![alt text]()      
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module9-3.jpg)      
 
 <br />
 
@@ -198,21 +209,23 @@ PS: This activity needs to be updated. The instructions leads to differents wind
 ### Module 10: Configure and monitor IoT devices at scale
 Duration: 30 minutes
 
-Instructions: https://github.com/Azure-Samples/azureiotlabs/blob/master/automaticdeviceconfiguration/README.md
-PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.      
+Instructions: https://github.com/Azure-Samples/azureiotlabs/blob/master/automaticdeviceconfiguration/README.md      
 
 <br />
 
-![alt text](
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module10-1.jpg)
 
-![alt text](
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module10-2.jpg)
 
-![alt text]()      
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module10-3.jpg)  
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module10-4.jpg)
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module10-5.jpg)
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module10-6.jpg)  
 
 <br />
-
-
-
 
 
 Below is the device twin updated with properties:
@@ -282,3 +295,11 @@ Below is the device twin updated with properties:
   }
 }
 ```
+## Summary
+Modules successfully complete: 1, 3, 4, 5, 9, and 10
+
+Modules not started: 2
+
+Modules which require troubleshooting: 6 and 7
+
+Modules which require assistance: 8
