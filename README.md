@@ -19,7 +19,8 @@ Total duration: 7hr 33min
 Duration: 3 minutes  
 
 <br />
-![Alt text](/Users/marcelofernandes/Documents/Module1_1.jpg)
+![alt text](/Users/marcelofernandes/Documents/Module1_1.jpg)
+
 
 
 
