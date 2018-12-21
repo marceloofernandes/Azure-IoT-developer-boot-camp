@@ -3,10 +3,17 @@
 ## Project name:
 Azure IoT developer boot camp lab
 
-### Description:
-This hands-on lab is part of the IoT School learning path about Azure IoT solutions provided by Microsoft. Its goal is to ` "get started with Azure IoT. This is a series of hands-on labs for anyone who is learning about Azure Internet of Things (IoT). In these labs, you will use Azure services to build Azure IoT end-to-end solutions, connecting real and simulated devices to Azure IoT Hub." ` It is available at https://iotschool.microsoft.com/learning-paths/1z75cTRBNqEA2EigQoQKKe or https://github.com/Azure-Samples/azureiotlabs.
+## Description:
+This hands-on lab is part of the IoT School learning path about Azure IoT solutions provided by **Microsoft**. Its goal is to ` "get started with Azure IoT. This is a series of hands-on labs for anyone who is learning about Azure Internet of Things (IoT). In these labs, you will use Azure services to build Azure IoT end-to-end solutions, connecting real and simulated devices to Azure IoT Hub." ` It is available at https://iotschool.microsoft.com/learning-paths/1z75cTRBNqEA2EigQoQKKe or https://github.com/Azure-Samples/azureiotlabs.        
 
-### 10 Modules:
+<br />
+This task was performed by following each module instruction. Key screen shots are presented to demonstrated the obtained results along with some comments whenever applicable.    
+
+<br />
+
+
+
+## 10 Modules:
 
 Total duration: 7hr 33min  
 
@@ -14,13 +21,13 @@ Total duration: 7hr 33min
 
 
 
-### Module 1: How to use the following hands-on labs?
+## Module 1: How to use the following hands-on labs?
 
 Duration: 3 minutes  
 
 <br />
 
-
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module1-1.jpg)
 
 
 
@@ -32,13 +39,23 @@ Duration: 60 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub/
 
-(This module requires the MXChip board)    
+Note: This module requires the MXChip board which was not made available at the time of the experiment.    
 <br />
 
 ### Module 3: Connect a Pi simulator to Azure IoT Hub
 Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub-PiSimulator/
-(paste results) . 
+(paste results)    
+
+<br /> 
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module3-1.jpg)       
+
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module3-2.jpg)       
+
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module3-3.jpg)
+
 
 <br /> 
 
