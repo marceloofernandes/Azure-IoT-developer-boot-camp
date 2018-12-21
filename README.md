@@ -70,6 +70,8 @@ Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/timeseriesinsights/     
 
 <br />
+
+
 ![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module4-1.jpg)
 
 ![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module4-2.jpg)
