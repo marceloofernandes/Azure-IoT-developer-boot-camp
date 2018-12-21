@@ -39,7 +39,7 @@ Duration: 60 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/IoTHub/
 
-Note: This module requires the MXChip board which was not made available at the time of the experiment.    
+Note: This module requires the MXChip board which was not made available at the time of the experiment. Therefore, this module has not been performed yet.   
 <br />
 
 ### Module 3: Connect a Pi simulator to Azure IoT Hub
@@ -92,13 +92,30 @@ Duration: 30 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/EventGrid/       
 <br />
 
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module5-1.jpg)
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module5-2.jpg)
+
+![alt text](https://github.com/marceloofernandes/Azure-IoT-developer-boot-camp/blob/master/Pictures/Module5-3.jpg)      
+
+<br />
+
+
 ### Module 6: Cold path storage
 Duration: 90 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeStore/
 (incomplete)  
 
-<br /> 
+<br />
+
+![alt text](
+
+![alt text](
+
+![alt text]()      
+
+<br />
 
 
 
@@ -109,6 +126,14 @@ Duration: 60 minutes
 Instructions: https://azure-samples.github.io/azureiotlabs/CosmosDB/
 (incomplete)     
 
+<br />
+
+![alt text](
+
+![alt text](
+
+![alt text]()      
+
 <br /> 
 
 
@@ -117,6 +142,14 @@ Duration: 60 minutes
 
 Instructions: https://azure-samples.github.io/azureiotlabs/DatalakeAnalytics/
 (incomplete)     
+
+<br />
+
+![alt text](
+
+![alt text](
+
+![alt text]()      
 
 <br /> 
 
@@ -130,6 +163,14 @@ PS: This activity needs to be updated. The instructions leads to differents wind
 
 <br />
 
+![alt text](
+
+![alt text](
+
+![alt text]()      
+
+<br />
+
 
 
 ### Module 10: Configure and monitor IoT devices at scale
@@ -137,6 +178,15 @@ Duration: 30 minutes
 
 Instructions: https://github.com/Azure-Samples/azureiotlabs/blob/master/automaticdeviceconfiguration/README.md
 PS: Paty attention to "Step 2: Specify Settings", there is a typo in JSON "74". It should 74.      
+
+<br />
+
+![alt text](
+
+![alt text](
+
+![alt text]()      
+
 <br />
 
 
