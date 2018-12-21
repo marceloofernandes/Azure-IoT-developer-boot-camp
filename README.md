@@ -19,7 +19,8 @@ Total duration: 7hr 33min
 Duration: 3 minutes  
 
 <br />
-![Alt text](/Users/marcelofernandes/Google Drive (mfernandes2007@gmail.com)/Career/Applications/Microsoft/Module1_1.jpg)
+![Alt text](/Users/marcelofernandes/Documents/Module1_1.jpg)
+
 
 
 
