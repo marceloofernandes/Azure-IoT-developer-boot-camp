@@ -7,7 +7,7 @@ Azure IoT developer boot camp lab
 This hands-on lab is part of the IoT School learning path about Azure IoT solutions provided by **Microsoft**. Its goal is to ` "get started with Azure IoT. This is a series of hands-on labs for anyone who is learning about Azure Internet of Things (IoT). In these labs, you will use Azure services to build Azure IoT end-to-end solutions, connecting real and simulated devices to Azure IoT Hub." ` It is available at https://iotschool.microsoft.com/learning-paths/1z75cTRBNqEA2EigQoQKKe or https://github.com/Azure-Samples/azureiotlabs.        
 
 <br />
-This task was performed by following each module instruction. Key screen shots are presented to demonstrated the obtained results along with some comments whenever applicable.    
+This task was performed by following each module instruction. Key screenshots are presented to demonstrated the obtained results along with some comments whenever applicable.    
 
 <br />
 
